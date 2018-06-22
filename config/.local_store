@@ -1,0 +1,31 @@
+{
+    "test.page": {
+        "id": "0661H000002QdLbQAK",
+        "name": "test",
+        "createdDate": "2018-06-22T17:37:06.000+0000",
+        "createdById": "0051H000008yRQtQAM",
+        "namespacePrefix": null,
+        "lastModifiedById": "0051H000008yRQtQAM",
+        "lastModifiedDate": "2018-06-22T17:59:48.000+0000",
+        "fullName": "test",
+        "fileName": "unpackaged/pages/test.page",
+        "createdByName": "rajat sharma",
+        "lastModifiedByName": "rajat sharma",
+        "manageableState": "unmanaged",
+        "type": "ApexPage",
+        "mmState": "clean"
+    },
+    "Salesforce1.appMenu": {
+        "createdById": "0051H000008yRQtQAM",
+        "createdByName": "rajat sharma",
+        "createdDate": "2018-06-22T17:49:03.039Z",
+        "fileName": "unpackaged/appMenus/Salesforce1.appMenu",
+        "fullName": "Salesforce1",
+        "id": "000000000000000AAA",
+        "lastModifiedById": "0051H000008yRQtQAM",
+        "lastModifiedByName": "rajat sharma",
+        "lastModifiedDate": "2018-06-22T17:49:03.039Z",
+        "type": "AppMenu",
+        "mmState": "clean"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "projectName": "TP5",
+    "username": "sharmarajat1984@playful-goat-364840.com",
+    "id": "7f79c2e0-7644-11e8-bf92-1b7a66170baa",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://playful-goat-364840-dev-ed.my.salesforce.com",
+    "workspace": "C:\\Users\\e3kp17f\\Documents",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "AppMenu",
+        "StaticResource"
+    ]
+}
